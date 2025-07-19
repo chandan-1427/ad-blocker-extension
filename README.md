@@ -46,6 +46,7 @@ Example rule:
     "resourceTypes": ["script"]
   }
 }
+```
 
 📦 Installation (For Development)
 Clone or download the repository:
